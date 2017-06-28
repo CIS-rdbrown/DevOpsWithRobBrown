@@ -1,6 +1,7 @@
 **PLACEHOLDER**
 
 ## Cover Slide for DevOps
+### Intro (1 of 2)
 
 Note:
 
@@ -15,9 +16,137 @@ Outline: Intro (2), Problem--Why You Want DevOps (5), Solution--What Done Looks 
 **PLACEHOLDER**
 
 ## Hello This is Us
+### Intro (2 of 2)
 
 Note:
 
 Thoughts: Casual photos of us looking intelligent
 ---
 **PLACEHOLDER**
+
+## Problem (1 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Problem (2 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Problem (3 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Problem (4 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Problem (5 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Solution (1 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Solution (2 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Solution (3 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Solution (4 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Solution (5 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Journey (1 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Journey (2 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Journey (3 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Journey (4 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Journey (5 of 5)
+
+Note:
+
+Thoughts: TBD
+---
+**PLACEHOLDER**
+
+## Bye (1 of 1)
+
+Note:
+
+Thoughts: TBD
+---
